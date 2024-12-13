@@ -6,14 +6,14 @@ const HeroSection = () => {
 
   const slides = [
     {
-      image: "/src/assets/images/header1.jpg",
+      image: "/images/header1.jpg",
       title: ["Indulge", "in Luxury"],
       highlight: "NEW COLLECTION",
       description:
         "Handcrafted chocolate brownies made with Belgian dark chocolate",
     },
     {
-      image: "/src/assets/images/header2.jpg",
+      image: "/images/header2.jpg",
       title: ["Artisanal", "Excellence"],
       highlight: "BESTSELLER",
       description: "Award-winning recipes perfected over generations",

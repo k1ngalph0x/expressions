@@ -7,7 +7,7 @@ const SpecialOccasions = () => {
       title: "Baby Announcements",
       subtitle: "Celebrate new beginnings",
       description: "Luxury chocolate arrangements for your precious moments",
-      image: "/src/assets/images/babyannouncement.jpg",
+      image: "/images/babyannouncement.jpg",
       features: [
         "Custom packaging",
         "Gender reveal options",
@@ -19,7 +19,7 @@ const SpecialOccasions = () => {
       title: "Festive Gifting",
       subtitle: "Make occasions memorable",
       description: "Curated collections for festive celebrations",
-      image: "/src/assets/images/gifting.jpg",
+      image: "/images/gifting.jpg",
       features: [
         "Personalized messages",
         "Corporate bulk orders",

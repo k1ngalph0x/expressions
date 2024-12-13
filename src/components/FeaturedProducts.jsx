@@ -6,7 +6,7 @@ const FeaturedProducts = () => {
     {
       name: "Exotic Brownies",
       price: "INR 350",
-      image: "/src/assets/images/exoticbrownies.jpg",
+      image: "/images/exoticbrownies.jpg",
       rating: 4.8,
       reviews: 124,
       description: "Rich dark chocolate with exotic spices",
@@ -15,7 +15,7 @@ const FeaturedProducts = () => {
     {
       name: "Chocolate Walnut Fudge",
       price: "INR 500",
-      image: "/src/assets/images/walnutfudge.jpg",
+      image: "/images/walnutfudge.jpg",
       rating: 4.9,
       reviews: 89,
       description: "Premium walnuts in Belgian chocolate",
@@ -24,7 +24,7 @@ const FeaturedProducts = () => {
     {
       name: "Hazelnut Tarts",
       price: "INR 900",
-      image: "/src/assets/images/hazlenuttart.jpg",
+      image: "/images/hazlenuttart.jpg",
       rating: 4.7,
       reviews: 156,
       description: "Handcrafted with Italian hazelnuts",
@@ -33,7 +33,7 @@ const FeaturedProducts = () => {
     {
       name: "Dry Fruit Canapes",
       price: "INR 600",
-      image: "/src/assets/images/canapes.jpg",
+      image: "/images/canapes.jpg",
       rating: 4.6,
       reviews: 92,
       description: "Assorted dry fruits in chocolate",

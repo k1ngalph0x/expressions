@@ -4,28 +4,28 @@ import { Instagram, Heart, MessageCircle, ArrowRight } from "lucide-react";
 const InstagramFeed = () => {
   const posts = [
     {
-      image: "/src/assets/images/insta1.jpg",
+      image: "/images/insta1.jpg",
       likes: 234,
       comments: 12,
       caption: "Indulge in our signature Belgian chocolate brownies",
       category: "Featured",
     },
     {
-      image: "/src/assets/images/insta2.png",
+      image: "/images/insta2.png",
       likes: 456,
       comments: 23,
       caption: "Perfect corporate gifting solutions",
       category: "Gifting",
     },
     {
-      image: "/src/assets/images/insta3.jpg",
+      image: "/images/insta3.jpg",
       likes: 789,
       comments: 45,
       caption: "Behind the scenes: Crafting perfection",
       category: "Process",
     },
     {
-      image: "/src/assets/images/insta4.jpg",
+      image: "/images/insta4.jpg",
       likes: 321,
       comments: 16,
       caption: "Luxury meets artisanal excellence",
